@@ -8,7 +8,13 @@
   "scripts": {
     "test": "node ./node_modules/mocha/bin/_mocha"
   },
-  "keywords": [],
+  "keywords": [
+    "metric",
+    "metrics",
+    "statsd",
+    "monitoring",
+    "regex"
+  ],
   "author": "Andrey Chausenko <andrey.chausenko@gmail.com> (https://memz.co)",
   "license": "ISC",
   "devDependencies": {
