@@ -1,6 +1,6 @@
 {
   "name": "metrix-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple metrics collector for JS objects",
   "main": "index.js",
   "typings": "./lib/index.d.ts",
