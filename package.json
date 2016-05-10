@@ -1,0 +1,17 @@
+{
+  "name": "metrix-js",
+  "version": "1.0.0",
+  "description": "Simple metrics collector for JS objects",
+  "main": "index.js",
+  "typings": "./lib/index.d.ts",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha"
+  },
+  "keywords": [],
+  "author": "Andrey Chausenko <andrey.chausenko@gmail.com> (https://memz.co)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
