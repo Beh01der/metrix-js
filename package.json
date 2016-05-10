@@ -2,6 +2,7 @@
   "name": "metrix-js",
   "version": "1.0.1",
   "description": "Simple metrics collector for JS objects",
+  "repository": "https://github.com/Beh01der/metrix-js.git",
   "main": "index.js",
   "typings": "./lib/index.d.ts",
   "scripts": {
